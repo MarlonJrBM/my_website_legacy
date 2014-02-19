@@ -1,0 +1,45 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+section {
+    /* You will add new style rules here */
+    position: relative;
+    background: url(https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-9xjis/images/winter.jpg);
+    width:700px;
+    height:500px;
+    color:white;
+    font-family: Lobster;
+    margin: auto;
+    
+    /* I am a comment. */
+}
+
+h1 {
+    /* Any styles here just affect your "<h1>" tags. */
+    font-size:48px;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 340px;
+    
+}
+
+body
+{
+    background: darkslategray;
+}
+
+h2
+{
+    font-size:36px;
+    position: absolute;
+    margin:0;
+    top: 60px;
+    left:400px;
+}
+
+img
+{
+    position:absolute;
+    top:200px;
+    left:120px;
+}

@@ -1,0 +1,29 @@
+#avatar
+{
+	float:left;
+	margin-right: 10px;
+	width: auto;
+	height:300px;
+
+
+
+
+}
+
+.header
+{
+
+	  padding-bottom: 9px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+
+
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
