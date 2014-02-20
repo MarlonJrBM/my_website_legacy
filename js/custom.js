@@ -35,6 +35,6 @@ function ConvertTimeToDate(time)
   document.getElementById("time").innerHTML=output;
   }
 
-  setInterval(function(){Countdown()},1000);
+  //setInterval(function(){Countdown()},1000);
 
 
